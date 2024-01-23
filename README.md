@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Ace3
-- 👀 I’m interested in LUA scripts for GTAV and learning C++ for game deveolpment
-  
+- 👋 Hi, I’m @Colossuss238
 
 <!---
 PressFtoRespawn/PressFtoRespawn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
